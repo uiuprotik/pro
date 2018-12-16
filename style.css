@@ -1,0 +1,21 @@
+.rap{
+	width: 960px;
+	margin: 0 auto;
+	
+}
+.header{}
+.header img{width:100%;high:auto;}
+.mainmenu{background:purple;text-align:center;}
+.mainmenu ul{margin:0;padding:0;list-style:none;}
+.mainmenu ul li{display:inline-block;}
+.mainmenu ul li a{color:white;padding:30px;display:inline-block;text-decoration:none;font-size:20px;}
+.mainmenu ul li a:hover{background:black;}
+.maincontentnt{overflow:hidden;}
+.content{width:620px;float:right;text-align:center;}
+.sidebar{width:300px;float:left;background-color:#ffffcc;}
+.footer{background:#cc0044;color:white;padding:20px;text-align:center;}
+.slider{}
+.slider img{}
+body{margin:0;padding:0;}
+h3{text-align:center;}
+li{text-align:left;font-size:20px;}
